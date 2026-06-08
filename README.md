@@ -1,0 +1,2 @@
+# CANusingRP2040
+EarlephilhowerコアのRP2040でPIOからSN65HVD230を使ってCAN通信するコード
